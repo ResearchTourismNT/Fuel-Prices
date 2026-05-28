@@ -1,0 +1,629 @@
+---
+title: "AIP Fuel Price Data Pipeline Documentation"
+subtitle: "Diesel and ULP weekly fuel price extracts for Power BI reporting"
+author: "ResearchTourismNT"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    number_sections: true
+    theme: flatly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  warning = FALSE,
+  message = FALSE
+)
+```
+
+# Purpose
+
+This document explains the automated Australian Institute of Petroleum fuel price data pipeline used to collect weekly Diesel and ULP fuel price data and prepare it for Power BI reporting.
+
+The pipeline extracts weekly fuel price series for:
+
+- Darwin
+- NT Regional
+- NT Average
+- National Metropolitan
+- National Regional
+- National Average
+
+The process is designed to create stable, repeatable outputs for reporting, GitHub storage, and Power BI refresh.
+
+# Pipeline overview
+
+The pipeline follows this process:
+
+1. Open the relevant AIP fuel pricing pages.
+2. Read the hidden chart parameters from the page HTML.
+3. Use those parameters to call the AIP JSON chart endpoint.
+4. Extract the weekly price data from the JSON response.
+5. Convert the timestamp and price values into tabular data.
+6. Merge all selected series into wide-format Diesel and ULP tables.
+7. Export clean CSV files for Power BI.
+8. Export a formatted Excel workbook for manual review.
+9. Push the output files to GitHub.
+10. Connect Power BI to the raw GitHub CSV URLs.
+
+Pipeline flow:
+
+```text
+AIP pricing pages
+   ↓
+Hidden chart parameters
+   ↓
+AIP JSON chart endpoint
+   ↓
+Kaggle Python notebook
+   ↓
+CSV and Excel output files
+   ↓
+GitHub repository
+   ↓
+Power BI Web connector
+```
+
+# Data source
+
+The data is sourced from the Australian Institute of Petroleum pricing website.
+
+The script does not scrape chart images or manually copy visible numbers. Instead, it opens each AIP pricing page and reads the chart metadata from the HTML element:
+
+```html
+<div class="fuel-chart" data-call="..." data-location="...">
+```
+
+The key attributes are:
+
+| Attribute | Purpose |
+|---|---|
+| `data-call` | Identifies the AIP API call to use |
+| `data-location` | Identifies the location or series to request |
+
+The script then calls the AIP endpoint:
+
+```text
+https://aip.com.au/aip-api-request
+```
+
+with parameters similar to:
+
+```text
+api-path=public/api
+call=<data-call value>
+location=<data-location value>
+```
+
+The API returns JSON data containing the chart series.
+
+# What is fetched from AIP
+
+The actual fuel price values are fetched from the AIP API.
+
+The API returns each price point in this structure:
+
+```text
+[timestamp_in_milliseconds, price_cents_per_litre]
+```
+
+Example structure:
+
+```text
+[1748786400000, 181.1429]
+```
+
+The script converts this into:
+
+| Field | Description |
+|---|---|
+| Date | Weekly date converted from the timestamp |
+| Price | Fuel price in cents per litre |
+| Series | The relevant location or average series |
+
+# What is hardcoded
+
+Fuel prices are not hardcoded.
+
+Only these items are manually defined in the script:
+
+- AIP page locations
+- Output column names
+- Output file names
+- GitHub repository settings
+- Formatting choices for the Excel workbook
+
+The actual Diesel and ULP prices are fetched directly from the AIP JSON response each time the notebook runs.
+
+The previous manual columns have been removed:
+
+- `Excise Cut (1 Apr)`
+- `Fuel Price Lock (20 Apr)`
+
+This keeps the output based only on AIP-returned fuel price data.
+
+# Fuel types covered
+
+The pipeline creates outputs for:
+
+| Fuel type | Output sheet | Output CSV |
+|---|---|---|
+| Diesel | Diesel | `AIP_diesel_prices.csv` |
+| ULP | ULP | `AIP_ulp_prices.csv` |
+
+# Series covered
+
+Each fuel type includes the following series:
+
+| Output column | Meaning |
+|---|---|
+| Darwin | Darwin weekly fuel price series |
+| NT Regional | Northern Territory regional average |
+| NT Average | Northern Territory state average |
+| National Metropolitan | National metropolitan average |
+| National Regional | National regional average |
+| National Average | National average |
+
+# Output files
+
+The pipeline creates the following files:
+
+```text
+AIP_fuel_prices_formatted.xlsx
+AIP_diesel_prices.csv
+AIP_ulp_prices.csv
+documentation/AIP_fuel_price_pipeline_documentation.Rmd
+```
+
+# Output folder structure
+
+Recommended GitHub structure:
+
+```text
+Fuel-Prices/
+│
+├── data/
+│   ├── AIP_fuel_prices_formatted.xlsx
+│   ├── AIP_diesel_prices.csv
+│   └── AIP_ulp_prices.csv
+│
+├── documentation/
+│   └── AIP_fuel_price_pipeline_documentation.Rmd
+│
+└── README.md
+```
+
+# Output schema
+
+Both CSV files use the same column structure.
+
+```text
+Date
+Week
+Year
+Darwin
+NT Regional
+NT Average
+National Metropolitan
+National Regional
+National Average
+```
+
+## Column definitions
+
+| Column | Type | Description |
+|---|---|---|
+| Date | Date | Full weekly date used for sorting and filtering |
+| Week | Text | Short readable week label, such as `4 Jan` |
+| Year | Whole number | Calendar year extracted from Date |
+| Darwin | Decimal | Darwin fuel price in cents per litre |
+| NT Regional | Decimal | NT regional average fuel price in cents per litre |
+| NT Average | Decimal | NT average fuel price in cents per litre |
+| National Metropolitan | Decimal | National metropolitan average fuel price in cents per litre |
+| National Regional | Decimal | National regional average fuel price in cents per litre |
+| National Average | Decimal | National average fuel price in cents per litre |
+
+# Excel workbook
+
+The formatted Excel workbook contains two sheets:
+
+```text
+Diesel
+ULP
+```
+
+Both sheets follow the same schema and formatting.
+
+The workbook is intended for:
+
+- Manual review
+- Quick inspection
+- Sharing a readable version of the output
+- Checking whether Diesel and ULP outputs have been created correctly
+
+The CSV files should be treated as the main machine-readable files for Power BI.
+
+# CSV files
+
+The CSV files are intended for Power BI connection and scheduled refresh.
+
+```text
+AIP_diesel_prices.csv
+AIP_ulp_prices.csv
+```
+
+These files should be used in Power BI through raw GitHub URLs.
+
+# Power BI connection
+
+Power BI should connect to the raw GitHub CSV URLs, not the normal GitHub webpage URLs.
+
+Example Diesel URL:
+
+```text
+https://raw.githubusercontent.com/ResearchTourismNT/Fuel-Prices/main/data/AIP_diesel_prices.csv
+```
+
+Example ULP URL:
+
+```text
+https://raw.githubusercontent.com/ResearchTourismNT/Fuel-Prices/main/data/AIP_ulp_prices.csv
+```
+
+In Power BI:
+
+1. Select **Get Data**.
+2. Choose **Web**.
+3. Paste the raw GitHub CSV URL.
+4. Confirm the preview.
+5. Set data types:
+   - `Date`: Date
+   - `Week`: Text
+   - `Year`: Whole number
+   - Fuel price columns: Decimal number
+6. Load the table.
+7. Configure scheduled refresh if required.
+
+# Power BI data type recommendations
+
+| Column | Recommended Power BI type |
+|---|---|
+| Date | Date |
+| Week | Text |
+| Year | Whole number |
+| Darwin | Decimal number |
+| NT Regional | Decimal number |
+| NT Average | Decimal number |
+| National Metropolitan | Decimal number |
+| National Regional | Decimal number |
+| National Average | Decimal number |
+
+# Recommended refresh schedule
+
+The AIP data is weekly, so a weekly refresh is usually enough.
+
+Recommended schedule:
+
+```text
+Kaggle notebook: Monday morning
+GitHub update: Same notebook run
+Power BI refresh: After GitHub update
+```
+
+A daily refresh can also be used if operationally required, but the source data is weekly, so frequent scraping is generally unnecessary.
+
+# Kaggle setup
+
+The pipeline is intended to run in a Kaggle notebook.
+
+The notebook creates:
+
+- Excel workbook
+- Diesel CSV
+- ULP CSV
+- R Markdown documentation
+
+The notebook then pushes these files to GitHub using a Kaggle secret.
+
+# Kaggle secret
+
+The Kaggle secret must be named exactly:
+
+```text
+GITHUB_TOKEN
+```
+
+This token should not be pasted directly into the notebook.
+
+# GitHub token setup
+
+Recommended token name:
+
+```text
+Kaggle AIP Fuel Prices Bot
+```
+
+Recommended token description:
+
+```text
+Used by Kaggle notebook to update AIP fuel price CSV and Excel files in ResearchTourismNT/Fuel-Prices for Power BI reporting.
+```
+
+Recommended token type:
+
+```text
+Fine-grained personal access token
+```
+
+Recommended repository access:
+
+```text
+Only selected repositories
+```
+
+Selected repository:
+
+```text
+ResearchTourismNT/Fuel-Prices
+```
+
+Required repository permissions:
+
+| Permission | Access |
+|---|---|
+| Contents | Read and write |
+| Metadata | Read |
+
+# GitHub 403 error
+
+If the notebook returns a `403` error when pushing to GitHub, the most likely causes are:
+
+- The token does not have write access.
+- The token was created under the wrong resource owner.
+- The repository was not selected when creating the token.
+- The organisation requires SSO or administrator approval.
+- The GitHub user does not have write access to the repository.
+- The token has expired.
+
+Recommended fix:
+
+1. Revoke the old token if it was exposed in notebook output.
+2. Create a new fine-grained token.
+3. Select the correct resource owner.
+4. Select the `Fuel-Prices` repository.
+5. Set `Contents` to `Read and write`.
+6. Save the token in Kaggle as `GITHUB_TOKEN`.
+7. Re-run the GitHub push cell.
+
+# Python dependencies
+
+The notebook uses:
+
+```text
+requests
+pandas
+beautifulsoup4
+openpyxl
+```
+
+The notebook attempts to install missing packages automatically where needed.
+
+# Core extraction method
+
+The key extraction logic is:
+
+1. Build possible AIP page URLs.
+2. Open the relevant pricing page.
+3. Find the chart element.
+4. Extract `data-call`.
+5. Extract `data-location`.
+6. Call the AIP JSON endpoint.
+7. Extract `series[0]["data"]`.
+8. Convert timestamps to dates.
+9. Round prices to one decimal place.
+10. Merge all series into a wide table.
+
+# Date conversion
+
+The AIP API returns timestamps in milliseconds.
+
+The script converts these using Python:
+
+```python
+pd.to_datetime(timestamp_ms, unit="ms", utc=True)
+```
+
+Then it converts the result to the Darwin time zone:
+
+```python
+.tz_convert("Australia/Darwin")
+```
+
+The final output stores the weekly date as a normal date field.
+
+# Price rounding
+
+The script rounds prices to one decimal place:
+
+```python
+round(float(price_cpl), 1)
+```
+
+This matches the display style normally used for cents-per-litre fuel prices.
+
+# Validation checks
+
+After each run, the notebook prints a validation summary.
+
+The printed output includes:
+
+- Fuel type being processed
+- Column being fetched
+- AIP series name
+- Number of rows returned
+- API call used
+- API location used
+- Latest Diesel rows
+- Latest ULP rows
+
+Recommended checks after each run:
+
+1. Confirm all six series are populated.
+2. Confirm Diesel and ULP both have output rows.
+3. Confirm the latest Date looks reasonable.
+4. Confirm the schema has not changed.
+5. Confirm no expected column is fully blank.
+6. Confirm GitHub has been updated.
+7. Confirm Power BI raw URLs are accessible.
+
+# Data quality considerations
+
+The script only reports data returned by the AIP endpoint.
+
+It does not:
+
+- Invent missing weeks
+- Impute missing prices
+- Adjust historical values
+- Hardcode fuel prices
+- Validate prices against a second source
+
+If AIP does not return a value for a given week or series, the output may contain a blank value after merging.
+
+# Troubleshooting AIP extraction
+
+If extraction fails, possible reasons include:
+
+- AIP changed the page URL.
+- AIP changed the HTML chart structure.
+- The `div.fuel-chart` element is no longer present.
+- The `data-call` or `data-location` attributes changed.
+- The AIP API endpoint changed.
+- The AIP site temporarily failed to respond.
+
+Suggested steps:
+
+1. Open the AIP pricing page manually.
+2. Confirm the chart is visible.
+3. Re-run the notebook.
+4. Check the printed error message.
+5. Inspect whether the page still contains `div.fuel-chart`.
+6. Update the page definitions if AIP changed a slug.
+
+# Troubleshooting Power BI refresh
+
+If Power BI refresh fails, possible reasons include:
+
+- GitHub raw URL is incorrect.
+- GitHub repository is private.
+- Power BI credentials need updating.
+- CSV file was moved or renamed.
+- Column names changed.
+- Power Query step refers to an old column.
+
+Suggested steps:
+
+1. Open the raw GitHub URL in a browser.
+2. Confirm the CSV downloads or displays.
+3. Confirm the file is in the `data/` folder.
+4. Confirm the schema is unchanged.
+5. Refresh the Power Query preview.
+6. Re-apply data types if necessary.
+7. Check gateway or credential settings if using a private repository.
+
+# Public versus private GitHub repository
+
+A public repository is simpler for Power BI Web connector refresh because the raw CSV URL is accessible without authentication.
+
+If the repository is private, Power BI may require additional authentication configuration. This can make scheduled refresh more difficult.
+
+# Recommended Power BI modelling approach
+
+Recommended setup:
+
+- Load Diesel and ULP as separate fact tables, or append them into one fact table with a `Fuel Type` column.
+- Use `Date` for time-series visuals.
+- Use `Year` for slicers.
+- Use the six price columns for line charts or comparison visuals.
+- If appending Diesel and ULP, reshape the wide table into a long format in Power Query.
+
+Example long-format structure for analysis:
+
+| Date | Week | Year | Fuel Type | Series | Price CPL |
+|---|---|---|---|---|
+| 2026-05-24 | 24 May | 2026 | Diesel | Darwin | 181.1 |
+| 2026-05-24 | 24 May | 2026 | ULP | Darwin | 175.2 |
+
+The current CSVs are wide because they match the requested Excel layout.
+
+# Maintenance notes
+
+The key parts that may need future updates are:
+
+| Area | When to update |
+|---|---|
+| AIP page slugs | If AIP changes page URLs |
+| Output schema | If Power BI reporting requirements change |
+| GitHub repo settings | If repository name or branch changes |
+| Token | When token expires or access changes |
+| Power BI URLs | If file paths change |
+
+# Change log
+
+| Date | Change |
+|---|---|
+| Initial version | Created automated AIP fuel price extraction process |
+| Updated version | Added Diesel and ULP output |
+| Updated version | Added Darwin, NT and National series |
+| Updated version | Added formatted Excel workbook |
+| Updated version | Added GitHub push workflow |
+| Updated version | Removed manual `Excise Cut` and `Fuel Price Lock` columns |
+| Updated version | Added R Markdown documentation |
+
+# Accuracy notes
+
+- Fuel prices are fetched from the AIP JSON endpoint.
+- Fuel prices are not hardcoded in the script.
+- AIP page locations and output column names are manually defined.
+- The pipeline depends on AIP continuing to expose chart data through the same page and API structure.
+- The CSV schema should be kept stable to avoid breaking Power BI refreshes.
+- The script does not independently verify AIP prices against another source.
+- If GitHub is private, Power BI refresh may require additional authentication setup.
+- The output should be reviewed after each major change to the script, source website, or Power BI model.
+
+# Appendix: expected files
+
+Expected files after a successful run:
+
+```text
+/kaggle/working/AIP_fuel_prices_formatted.xlsx
+/kaggle/working/AIP_diesel_prices.csv
+/kaggle/working/AIP_ulp_prices.csv
+/kaggle/working/documentation/AIP_fuel_price_pipeline_documentation.Rmd
+```
+
+Expected GitHub paths:
+
+```text
+data/AIP_fuel_prices_formatted.xlsx
+data/AIP_diesel_prices.csv
+data/AIP_ulp_prices.csv
+documentation/AIP_fuel_price_pipeline_documentation.Rmd
+```
+
+# Appendix: expected final schema
+
+```text
+Date
+Week
+Year
+Darwin
+NT Regional
+NT Average
+National Metropolitan
+National Regional
+National Average
+```
