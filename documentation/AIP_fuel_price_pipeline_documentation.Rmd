@@ -264,13 +264,13 @@ Power BI should connect to the raw GitHub CSV URLs, not the normal GitHub webpag
 Example Diesel URL:
 
 ```text
-https://raw.githubusercontent.com/ResearchTourismNT/Fuel-Prices/main/data/AIP_diesel_prices.csv
+https://raw.githubusercontent.com/ResearchTourismNT/Fuel-Prices/main/data/Weekly Fuel Price Data/AIP_diesel_prices.csv
 ```
 
 Example ULP URL:
 
 ```text
-https://raw.githubusercontent.com/ResearchTourismNT/Fuel-Prices/main/data/AIP_ulp_prices.csv
+https://raw.githubusercontent.com/ResearchTourismNT/Fuel-Prices/main/data/Weekly Fuel Price Data/AIP_ulp_prices.csv
 ```
 
 In Power BI:
@@ -608,9 +608,9 @@ Expected files after a successful run:
 Expected GitHub paths:
 
 ```text
-data/AIP_fuel_prices_formatted.xlsx
-data/AIP_diesel_prices.csv
-data/AIP_ulp_prices.csv
+data/Weekly Fuel Price Data/AIP_fuel_prices_formatted.xlsx
+data/Weekly Fuel Price Data/AIP_diesel_prices.csv
+data/Weekly Fuel Price Data/AIP_ulp_prices.csv
 documentation/AIP_fuel_price_pipeline_documentation.Rmd
 ```
 
