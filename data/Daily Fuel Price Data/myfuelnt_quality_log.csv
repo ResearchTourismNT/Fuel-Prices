@@ -1,0 +1,2 @@
+RunDate,RunDateTime,RunStatus,ErrorCount,WarningCount,WideRowCount,FuelRecordCount,DailyWideFile,HistoryWideFile
+2026-06-01,2026-06-01 09:30:03,PASSED_WITH_WARNINGS,0,2,213,570,data/Daily Fuel Price Data/myfuelnt_daily_wide_2026-06-01.csv,data/Daily Fuel Price Data/myfuelnt_daily_wide_history.csv
