@@ -1,0 +1,15 @@
+FuelCode,FuelType,FuelCategory,ColumnPrefix
+DL,Diesel,Diesel,Diesel
+PD,Premium Diesel,Diesel,PremiumDiesel
+PDL,Premium Diesel,Diesel,PremiumDiesel
+B20,Biodiesel 20,Diesel,Biodiesel20
+U91,Unleaded 91,Petrol,Unleaded91
+LAF,Low Aromatic Fuel,Petrol Substitute,LowAromaticFuel
+P95,Premium 95,Petrol,Premium95
+P98,Premium 98,Petrol,Premium98
+E10,Ethanol 94 (E10),Petrol,E10
+E85,Ethanol 105 (E85),Petrol,E85
+LPG,LPG,Gas,LPG
+EU,Equivalent Unleaded,Petrol,EquivalentUnleaded
+EUL,Equivalent Unleaded,Petrol,EquivalentUnleaded
+ALLD,All Diesel,Diesel,AllDiesel
