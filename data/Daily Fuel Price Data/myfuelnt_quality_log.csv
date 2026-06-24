@@ -15,3 +15,4 @@ RunDate,RunDateTime,RunStatus,ErrorCount,WarningCount,WideRowCount,FuelRecordCou
 2026-06-21,2026-06-21 08:44:48,PASSED_WITH_WARNINGS,0,2,214,573,data/Daily Fuel Price Data/myfuelnt_latest_wide.csv,data/Daily Fuel Price Data/myfuelnt_daily_wide_history.csv,False,
 2026-06-22,2026-06-22 08:41:26,PASSED_WITH_WARNINGS,0,2,214,573,data/Daily Fuel Price Data/myfuelnt_latest_wide.csv,data/Daily Fuel Price Data/myfuelnt_daily_wide_history.csv,False,
 2026-06-24,2026-06-24 08:43:39,PASSED_WITH_WARNINGS,0,2,214,573,data/Daily Fuel Price Data/myfuelnt_latest_wide.csv,data/Daily Fuel Price Data/myfuelnt_daily_wide_history.csv,False,
+2026-06-25,2026-06-25 08:41:23,PASSED_WITH_WARNINGS,0,2,214,573,data/Daily Fuel Price Data/myfuelnt_latest_wide.csv,data/Daily Fuel Price Data/myfuelnt_daily_wide_history.csv,False,
