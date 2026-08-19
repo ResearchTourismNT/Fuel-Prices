@@ -1,0 +1,55 @@
+Fuel,State,Region,Slug,Page_URL,Archive_Page,Geography_Type
+Diesel,NSW/ACT,Canberra,canberra,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/canberra/,16,Capital City
+Diesel,NSW/ACT,NSW Regional Average,nsw-regional-average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-regional-average/,19,State Regional Average
+Diesel,NSW/ACT,NSW State Average,nsw-state-average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-state-average/,20,State Average
+Diesel,NSW/ACT,Sydney,sydney,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/sydney/,20,Capital City
+Diesel,NT,Darwin,darwin,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/darwin/,1,City/Region
+Diesel,NT,Northern Territory Regional Average,northern-territory-regional-average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-regional-average/,2,State Regional Average
+Diesel,NT,Northern Territory State Average,northern-territory-state-average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-state-average/,2,State Average
+Diesel,National,Five Capital City Average,5-capital-city-average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/5-capital-city-average/,14,National Capital City Average
+Diesel,National,National Average,national-average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/national-average/,14,National Average
+Diesel,National,Total Metropolitan Average,total-metropolitan-average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-metropolitan-average/,14,National Metropolitan Average
+Diesel,National,Total Regional Average,total-regional-average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-regional-average/,15,National Regional Average
+Diesel,QLD,Brisbane,brisbane,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/brisbane/,9,Capital City
+Diesel,QLD,Queensland Regional Average,queensland-regional-average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-regional-average/,12,State Regional Average
+Diesel,QLD,Queensland State Average,queensland-state-average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-state-average/,12,State Average
+Diesel,SA,Adelaide,adelaide,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/adelaide/,6,Capital City
+Diesel,SA,South Australian Regional Average,south-australian-regional-average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-regional-average/,8,State Regional Average
+Diesel,SA,South Australian State Average,south-australian-state-average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-state-average/,13,State Average
+Diesel,TAS,Hobart,hobart,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/hobart/,2,Capital City
+Diesel,TAS,Tasmanian Regional Average,tasmanian-regional-average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-regional-average/,3,State Regional Average
+Diesel,TAS,Tasmanian State Average,tasmanian-state-average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-state-average/,3,State Average
+Diesel,VIC,Melbourne,melbourne,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/melbourne/,23,Capital City
+Diesel,VIC,Victorian Regional Average,victorian-regional-average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-regional-average/,24,State Regional Average
+Diesel,VIC,Victorian State Average,victorian-state-average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-state-average/,25,State Average
+Diesel,WA,Perth,perth,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/perth/,5,Capital City
+Diesel,WA,Western Australian Regional Average,western-australian-regional-average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-regional-average/,6,State Regional Average
+Diesel,WA,Western Australian State Average,western-australian-state-average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-state-average/,6,State Average
+ULP,NSW/ACT,Canberra,canberra,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/canberra/,16,Capital City
+ULP,NSW/ACT,NSW Regional Average,nsw-regional-average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-regional-average/,19,State Regional Average
+ULP,NSW/ACT,NSW State Average,nsw-state-average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-state-average/,20,State Average
+ULP,NSW/ACT,Sydney,sydney,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/sydney/,20,Capital City
+ULP,NT,Alice Springs,alice-springs,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/alice-springs/,1,City/Region
+ULP,NT,Darwin,darwin,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/darwin/,1,City/Region
+ULP,NT,Katherine,katherine,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/katherine/,1,City/Region
+ULP,NT,Northern Territory Regional Average,northern-territory-regional-average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-regional-average/,1,State Regional Average
+ULP,NT,Northern Territory State Average,northern-territory-state-average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-state-average/,2,State Average
+ULP,National,5 Capital City Average,5-capital-city-average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/5-capital-city-average/,14,National Capital City Average
+ULP,National,National Average,national-average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/national-average/,14,National Average
+ULP,National,Total Metropolitan Average,total-metropolitan-average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-metropolitan-average/,14,National Metropolitan Average
+ULP,National,Total Regional Average,total-regional-average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-regional-average/,15,National Regional Average
+ULP,QLD,Brisbane,brisbane,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/brisbane/,9,Capital City
+ULP,QLD,Queensland Regional Average,queensland-regional-average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-regional-average/,12,State Regional Average
+ULP,QLD,Queensland State Average,queensland-state-average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-state-average/,12,State Average
+ULP,SA,Adelaide,adelaide,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/adelaide/,6,Capital City
+ULP,SA,South Australian Regional Average,south-australian-regional-average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-regional-average/,8,State Regional Average
+ULP,SA,South Australian State Average,south-australian-state-average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-state-average/,8,State Average
+ULP,TAS,Hobart,hobart,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/hobart/,2,Capital City
+ULP,TAS,Tasmanian Regional Average,tasmanian-regional-average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-regional-average/,3,State Regional Average
+ULP,TAS,Tasmanian State Average,tasmanian-state-average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-state-average/,3,State Average
+ULP,VIC,Melbourne,melbourne,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/melbourne/,23,Capital City
+ULP,VIC,Victorian Regional Average,victorian-regional-average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-regional-average/,24,State Regional Average
+ULP,VIC,Victorian State Average,victorian-state-average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-state-average/,25,State Average
+ULP,WA,Perth,perth,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/perth/,5,Capital City
+ULP,WA,Western Australian Regional Average,western-australian-regional-average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-regional-average/,6,State Regional Average
+ULP,WA,Western Australian State Average,western-australian-state-average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-state-average/,6,State Average
