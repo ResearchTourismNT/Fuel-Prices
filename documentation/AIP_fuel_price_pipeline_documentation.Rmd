@@ -64,9 +64,9 @@ The long-format CSV is recommended for Power BI because it contains `Date`, `Fue
 - Selected series: 54
 - Successful series: 54
 - Failed series: 0
-- Master date range: 2025-08-24 to 2026-08-23
-- Master observations: 2,862
+- Master date range: 2025-08-24 to 2026-08-30
+- Master observations: 2,916
 
 # GitHub publishing
 
-GitHub publishing is isolated in Cell 2. Running Cell 1 does not push to GitHub. Cell 2 requires the Kaggle secret `GITHUB_TOKEN`, copies the generated files into `data/Weekly Fuel Price Data/`, commits only when changes are detected, and pushes to the configured branch.
+GitHub publishing is isolated in Cell 2. Running Cell 1 does not push to GitHub. Cell 2 requires the Kaggle secret `GITHUB_TOKEN_FUEL_PRICING`, copies the generated files into `data/Weekly Fuel Price Data/`, commits only when changes are detected, and pushes to the configured branch.
