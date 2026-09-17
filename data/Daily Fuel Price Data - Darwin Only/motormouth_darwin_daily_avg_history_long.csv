@@ -335,3 +335,5 @@ Date,CountryId,CityId,FuelId,FuelType,AveragePrice_CPL,Price_Dollars_Per_Litre,S
 2026-09-15,21,8,8,Unleaded,226.3,2.263,Darwin-Unleaded,MotorMouth,https://motormouth.com.au/api/MotorMouthApi/GetDailyAvgGraphData,2026-09-15,2026-09-15T21:12:05+00:00
 2026-09-16,21,8,18,Diesel,274.6,2.7460000000000004,Darwin-Diesel,MotorMouth,https://motormouth.com.au/api/MotorMouthApi/GetDailyAvgGraphData,2026-09-16,2026-09-16T21:01:03+00:00
 2026-09-16,21,8,8,Unleaded,230.6,2.306,Darwin-Unleaded,MotorMouth,https://motormouth.com.au/api/MotorMouthApi/GetDailyAvgGraphData,2026-09-16,2026-09-16T21:01:03+00:00
+2026-09-17,21,8,18,Diesel,278.1,2.781,Darwin-Diesel,MotorMouth,https://motormouth.com.au/api/MotorMouthApi/GetDailyAvgGraphData,2026-09-17,2026-09-17T21:08:08+00:00
+2026-09-17,21,8,8,Unleaded,234.1,2.3409999999999997,Darwin-Unleaded,MotorMouth,https://motormouth.com.au/api/MotorMouthApi/GetDailyAvgGraphData,2026-09-17,2026-09-17T21:08:08+00:00
