@@ -64,8 +64,8 @@ The long-format CSV is recommended for Power BI because it contains `Date`, `Fue
 - Selected series: 54
 - Successful series: 54
 - Failed series: 0
-- Master date range: 2025-08-24 to 2026-09-13
-- Master observations: 3,024
+- Master date range: 2025-08-24 to 2026-09-20
+- Master observations: 3,078
 
 # GitHub publishing
 
