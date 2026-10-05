@@ -57,6 +57,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,NSW/ACT,Canberra,Capital City,271.3,Canberra,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/canberra/
 2026-09-20,20 Sep,2026,Diesel,NSW/ACT,Canberra,Capital City,289.2,Canberra,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/canberra/
 2026-09-27,27 Sep,2026,Diesel,NSW/ACT,Canberra,Capital City,298.0,Canberra,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/canberra/
+2026-10-04,4 Oct,2026,Diesel,NSW/ACT,Canberra,Capital City,293.1,Canberra,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/canberra/
 2025-08-24,24 Aug,2025,Diesel,NSW/ACT,NSW Regional Average,State Regional Average,184.7,NSW Regional Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-regional-average/
 2025-08-31,31 Aug,2025,Diesel,NSW/ACT,NSW Regional Average,State Regional Average,184.4,NSW Regional Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-regional-average/
 2025-09-07,7 Sep,2025,Diesel,NSW/ACT,NSW Regional Average,State Regional Average,184.7,NSW Regional Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-regional-average/
@@ -115,6 +116,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,NSW/ACT,NSW Regional Average,State Regional Average,257.0,NSW Regional Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-regional-average/
 2026-09-20,20 Sep,2026,Diesel,NSW/ACT,NSW Regional Average,State Regional Average,274.4,NSW Regional Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-regional-average/
 2026-09-27,27 Sep,2026,Diesel,NSW/ACT,NSW Regional Average,State Regional Average,287.2,NSW Regional Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-regional-average/
+2026-10-04,4 Oct,2026,Diesel,NSW/ACT,NSW Regional Average,State Regional Average,285.4,NSW Regional Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-regional-average/
 2025-08-24,24 Aug,2025,Diesel,NSW/ACT,NSW State Average,State Average,183.7,NSW State Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-state-average/
 2025-08-31,31 Aug,2025,Diesel,NSW/ACT,NSW State Average,State Average,183.3,NSW State Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-state-average/
 2025-09-07,7 Sep,2025,Diesel,NSW/ACT,NSW State Average,State Average,183.5,NSW State Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-state-average/
@@ -173,6 +175,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,NSW/ACT,NSW State Average,State Average,256.6,NSW State Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-state-average/
 2026-09-20,20 Sep,2026,Diesel,NSW/ACT,NSW State Average,State Average,274.1,NSW State Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-state-average/
 2026-09-27,27 Sep,2026,Diesel,NSW/ACT,NSW State Average,State Average,286.2,NSW State Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-state-average/
+2026-10-04,4 Oct,2026,Diesel,NSW/ACT,NSW State Average,State Average,284.2,NSW State Average,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/nsw-state-average/
 2025-08-24,24 Aug,2025,Diesel,NSW/ACT,Sydney,Capital City,181.0,Sydney,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/sydney/
 2025-08-31,31 Aug,2025,Diesel,NSW/ACT,Sydney,Capital City,180.2,Sydney,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/sydney/
 2025-09-07,7 Sep,2025,Diesel,NSW/ACT,Sydney,Capital City,180.4,Sydney,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/sydney/
@@ -231,6 +234,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,NSW/ACT,Sydney,Capital City,254.5,Sydney,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/sydney/
 2026-09-20,20 Sep,2026,Diesel,NSW/ACT,Sydney,Capital City,272.1,Sydney,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/sydney/
 2026-09-27,27 Sep,2026,Diesel,NSW/ACT,Sydney,Capital City,283.3,Sydney,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/sydney/
+2026-10-04,4 Oct,2026,Diesel,NSW/ACT,Sydney,Capital City,281.1,Sydney,https://aip.com.au/pricing/diesel/new-south-wales-act-retail-diesel-prices/sydney/
 2025-08-24,24 Aug,2025,Diesel,NT,Darwin,City/Region,186.8,Darwin,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/darwin/
 2025-08-31,31 Aug,2025,Diesel,NT,Darwin,City/Region,187.1,Darwin,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/darwin/
 2025-09-07,7 Sep,2025,Diesel,NT,Darwin,City/Region,188.5,Darwin,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/darwin/
@@ -289,6 +293,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,NT,Darwin,City/Region,263.0,Darwin,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/darwin/
 2026-09-20,20 Sep,2026,Diesel,NT,Darwin,City/Region,278.8,Darwin,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/darwin/
 2026-09-27,27 Sep,2026,Diesel,NT,Darwin,City/Region,292.6,Darwin,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/darwin/
+2026-10-04,4 Oct,2026,Diesel,NT,Darwin,City/Region,291.9,Darwin,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/darwin/
 2025-08-24,24 Aug,2025,Diesel,NT,Northern Territory Regional Average,State Regional Average,240.8,Northern Territory Regional Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-regional-average/
 2025-08-31,31 Aug,2025,Diesel,NT,Northern Territory Regional Average,State Regional Average,241.0,Northern Territory Regional Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-regional-average/
 2025-09-07,7 Sep,2025,Diesel,NT,Northern Territory Regional Average,State Regional Average,241.1,Northern Territory Regional Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-regional-average/
@@ -347,6 +352,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,NT,Northern Territory Regional Average,State Regional Average,299.1,Northern Territory Regional Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-regional-average/
 2026-09-20,20 Sep,2026,Diesel,NT,Northern Territory Regional Average,State Regional Average,306.1,Northern Territory Regional Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-regional-average/
 2026-09-27,27 Sep,2026,Diesel,NT,Northern Territory Regional Average,State Regional Average,314.3,Northern Territory Regional Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-regional-average/
+2026-10-04,4 Oct,2026,Diesel,NT,Northern Territory Regional Average,State Regional Average,317.4,Northern Territory Regional Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-regional-average/
 2025-08-24,24 Aug,2025,Diesel,NT,Northern Territory State Average,State Average,208.0,Northern Territory State Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-state-average/
 2025-08-31,31 Aug,2025,Diesel,NT,Northern Territory State Average,State Average,208.3,Northern Territory State Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-state-average/
 2025-09-07,7 Sep,2025,Diesel,NT,Northern Territory State Average,State Average,209.1,Northern Territory State Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-state-average/
@@ -405,6 +411,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,NT,Northern Territory State Average,State Average,277.2,Northern Territory State Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-state-average/
 2026-09-20,20 Sep,2026,Diesel,NT,Northern Territory State Average,State Average,289.5,Northern Territory State Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-state-average/
 2026-09-27,27 Sep,2026,Diesel,NT,Northern Territory State Average,State Average,301.1,Northern Territory State Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-state-average/
+2026-10-04,4 Oct,2026,Diesel,NT,Northern Territory State Average,State Average,301.9,Northern Territory State Average,https://aip.com.au/pricing/diesel/northern-territory-retail-diesel-prices/northern-territory-state-average/
 2025-08-24,24 Aug,2025,Diesel,National,Five Capital City Average,National Capital City Average,182.2,Five Capital City Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/5-capital-city-average/
 2025-08-31,31 Aug,2025,Diesel,National,Five Capital City Average,National Capital City Average,182.1,Five Capital City Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/5-capital-city-average/
 2025-09-07,7 Sep,2025,Diesel,National,Five Capital City Average,National Capital City Average,182.5,Five Capital City Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/5-capital-city-average/
@@ -463,6 +470,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,National,Five Capital City Average,National Capital City Average,255.5,Five Capital City Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/5-capital-city-average/
 2026-09-20,20 Sep,2026,Diesel,National,Five Capital City Average,National Capital City Average,272.3,Five Capital City Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/5-capital-city-average/
 2026-09-27,27 Sep,2026,Diesel,National,Five Capital City Average,National Capital City Average,285.6,Five Capital City Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/5-capital-city-average/
+2026-10-04,4 Oct,2026,Diesel,National,Five Capital City Average,National Capital City Average,283.0,Five Capital City Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/5-capital-city-average/
 2025-08-24,24 Aug,2025,Diesel,National,National Average,National Average,185.5,National Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/national-average/
 2025-08-31,31 Aug,2025,Diesel,National,National Average,National Average,185.3,National Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/national-average/
 2025-09-07,7 Sep,2025,Diesel,National,National Average,National Average,185.6,National Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/national-average/
@@ -521,6 +529,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,National,National Average,National Average,257.7,National Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/national-average/
 2026-09-20,20 Sep,2026,Diesel,National,National Average,National Average,273.6,National Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/national-average/
 2026-09-27,27 Sep,2026,Diesel,National,National Average,National Average,286.7,National Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/national-average/
+2026-10-04,4 Oct,2026,Diesel,National,National Average,National Average,284.7,National Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/national-average/
 2025-08-24,24 Aug,2025,Diesel,National,Total Metropolitan Average,National Metropolitan Average,183.9,Total Metropolitan Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-metropolitan-average/
 2025-08-31,31 Aug,2025,Diesel,National,Total Metropolitan Average,National Metropolitan Average,183.7,Total Metropolitan Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-metropolitan-average/
 2025-09-07,7 Sep,2025,Diesel,National,Total Metropolitan Average,National Metropolitan Average,184.1,Total Metropolitan Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-metropolitan-average/
@@ -579,6 +588,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,National,Total Metropolitan Average,National Metropolitan Average,256.6,Total Metropolitan Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-metropolitan-average/
 2026-09-20,20 Sep,2026,Diesel,National,Total Metropolitan Average,National Metropolitan Average,273.3,Total Metropolitan Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-metropolitan-average/
 2026-09-27,27 Sep,2026,Diesel,National,Total Metropolitan Average,National Metropolitan Average,286.0,Total Metropolitan Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-metropolitan-average/
+2026-10-04,4 Oct,2026,Diesel,National,Total Metropolitan Average,National Metropolitan Average,283.0,Total Metropolitan Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-metropolitan-average/
 2025-08-24,24 Aug,2025,Diesel,National,Total Regional Average,National Regional Average,186.8,Total Regional Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-regional-average/
 2025-08-31,31 Aug,2025,Diesel,National,Total Regional Average,National Regional Average,186.6,Total Regional Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-regional-average/
 2025-09-07,7 Sep,2025,Diesel,National,Total Regional Average,National Regional Average,186.9,Total Regional Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-regional-average/
@@ -637,6 +647,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,National,Total Regional Average,National Regional Average,258.6,Total Regional Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-regional-average/
 2026-09-20,20 Sep,2026,Diesel,National,Total Regional Average,National Regional Average,273.8,Total Regional Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-regional-average/
 2026-09-27,27 Sep,2026,Diesel,National,Total Regional Average,National Regional Average,287.3,Total Regional Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-regional-average/
+2026-10-04,4 Oct,2026,Diesel,National,Total Regional Average,National Regional Average,286.1,Total Regional Average,https://aip.com.au/pricing/diesel/national-retail-diesel-prices/total-regional-average/
 2025-08-24,24 Aug,2025,Diesel,QLD,Brisbane,Capital City,186.7,Brisbane,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/brisbane/
 2025-08-31,31 Aug,2025,Diesel,QLD,Brisbane,Capital City,186.5,Brisbane,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/brisbane/
 2025-09-07,7 Sep,2025,Diesel,QLD,Brisbane,Capital City,186.8,Brisbane,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/brisbane/
@@ -695,6 +706,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,QLD,Brisbane,Capital City,258.6,Brisbane,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/brisbane/
 2026-09-20,20 Sep,2026,Diesel,QLD,Brisbane,Capital City,276.0,Brisbane,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/brisbane/
 2026-09-27,27 Sep,2026,Diesel,QLD,Brisbane,Capital City,289.1,Brisbane,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/brisbane/
+2026-10-04,4 Oct,2026,Diesel,QLD,Brisbane,Capital City,286.8,Brisbane,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/brisbane/
 2025-08-24,24 Aug,2025,Diesel,QLD,Queensland Regional Average,State Regional Average,186.1,Queensland Regional Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-regional-average/
 2025-08-31,31 Aug,2025,Diesel,QLD,Queensland Regional Average,State Regional Average,186.0,Queensland Regional Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-regional-average/
 2025-09-07,7 Sep,2025,Diesel,QLD,Queensland Regional Average,State Regional Average,186.0,Queensland Regional Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-regional-average/
@@ -753,6 +765,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,QLD,Queensland Regional Average,State Regional Average,259.7,Queensland Regional Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-regional-average/
 2026-09-20,20 Sep,2026,Diesel,QLD,Queensland Regional Average,State Regional Average,274.7,Queensland Regional Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-regional-average/
 2026-09-27,27 Sep,2026,Diesel,QLD,Queensland Regional Average,State Regional Average,287.8,Queensland Regional Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-regional-average/
+2026-10-04,4 Oct,2026,Diesel,QLD,Queensland Regional Average,State Regional Average,287.5,Queensland Regional Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-regional-average/
 2025-08-24,24 Aug,2025,Diesel,QLD,Queensland State Average,State Average,186.4,Queensland State Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-state-average/
 2025-08-31,31 Aug,2025,Diesel,QLD,Queensland State Average,State Average,186.2,Queensland State Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-state-average/
 2025-09-07,7 Sep,2025,Diesel,QLD,Queensland State Average,State Average,186.4,Queensland State Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-state-average/
@@ -811,6 +824,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,QLD,Queensland State Average,State Average,259.2,Queensland State Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-state-average/
 2026-09-20,20 Sep,2026,Diesel,QLD,Queensland State Average,State Average,275.3,Queensland State Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-state-average/
 2026-09-27,27 Sep,2026,Diesel,QLD,Queensland State Average,State Average,288.4,Queensland State Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-state-average/
+2026-10-04,4 Oct,2026,Diesel,QLD,Queensland State Average,State Average,287.1,Queensland State Average,https://aip.com.au/pricing/diesel/queensland-retail-diesel-fuel-prices/queensland-state-average/
 2025-08-24,24 Aug,2025,Diesel,SA,Adelaide,Capital City,178.7,Adelaide,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/adelaide/
 2025-08-31,31 Aug,2025,Diesel,SA,Adelaide,Capital City,179.1,Adelaide,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/adelaide/
 2025-09-07,7 Sep,2025,Diesel,SA,Adelaide,Capital City,179.7,Adelaide,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/adelaide/
@@ -869,6 +883,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,SA,Adelaide,Capital City,255.0,Adelaide,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/adelaide/
 2026-09-20,20 Sep,2026,Diesel,SA,Adelaide,Capital City,272.7,Adelaide,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/adelaide/
 2026-09-27,27 Sep,2026,Diesel,SA,Adelaide,Capital City,288.3,Adelaide,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/adelaide/
+2026-10-04,4 Oct,2026,Diesel,SA,Adelaide,Capital City,287.8,Adelaide,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/adelaide/
 2025-08-24,24 Aug,2025,Diesel,SA,South Australian Regional Average,State Regional Average,184.4,South Australian Regional Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-regional-average/
 2025-08-31,31 Aug,2025,Diesel,SA,South Australian Regional Average,State Regional Average,184.4,South Australian Regional Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-regional-average/
 2025-09-07,7 Sep,2025,Diesel,SA,South Australian Regional Average,State Regional Average,185.1,South Australian Regional Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-regional-average/
@@ -927,6 +942,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,SA,South Australian Regional Average,State Regional Average,259.6,South Australian Regional Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-regional-average/
 2026-09-20,20 Sep,2026,Diesel,SA,South Australian Regional Average,State Regional Average,274.8,South Australian Regional Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-regional-average/
 2026-09-27,27 Sep,2026,Diesel,SA,South Australian Regional Average,State Regional Average,290.0,South Australian Regional Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-regional-average/
+2026-10-04,4 Oct,2026,Diesel,SA,South Australian Regional Average,State Regional Average,288.0,South Australian Regional Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-regional-average/
 2025-08-24,24 Aug,2025,Diesel,SA,South Australian State Average,State Average,184.4,South Australian State Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-state-average/
 2025-08-31,31 Aug,2025,Diesel,SA,South Australian State Average,State Average,184.4,South Australian State Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-state-average/
 2025-09-07,7 Sep,2025,Diesel,SA,South Australian State Average,State Average,185.1,South Australian State Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-state-average/
@@ -985,6 +1001,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,SA,South Australian State Average,State Average,259.6,South Australian State Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-state-average/
 2026-09-20,20 Sep,2026,Diesel,SA,South Australian State Average,State Average,274.8,South Australian State Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-state-average/
 2026-09-27,27 Sep,2026,Diesel,SA,South Australian State Average,State Average,290.0,South Australian State Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-state-average/
+2026-10-04,4 Oct,2026,Diesel,SA,South Australian State Average,State Average,288.0,South Australian State Average,https://aip.com.au/pricing/diesel/south-australian-retail-diesel-prices/south-australian-state-average/
 2025-08-24,24 Aug,2025,Diesel,TAS,Hobart,Capital City,184.9,Hobart,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/hobart/
 2025-08-31,31 Aug,2025,Diesel,TAS,Hobart,Capital City,185.3,Hobart,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/hobart/
 2025-09-07,7 Sep,2025,Diesel,TAS,Hobart,Capital City,185.7,Hobart,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/hobart/
@@ -1043,6 +1060,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,TAS,Hobart,Capital City,259.8,Hobart,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/hobart/
 2026-09-20,20 Sep,2026,Diesel,TAS,Hobart,Capital City,276.6,Hobart,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/hobart/
 2026-09-27,27 Sep,2026,Diesel,TAS,Hobart,Capital City,290.2,Hobart,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/hobart/
+2026-10-04,4 Oct,2026,Diesel,TAS,Hobart,Capital City,287.7,Hobart,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/hobart/
 2025-08-24,24 Aug,2025,Diesel,TAS,Tasmanian Regional Average,State Regional Average,185.2,Tasmanian Regional Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-regional-average/
 2025-08-31,31 Aug,2025,Diesel,TAS,Tasmanian Regional Average,State Regional Average,185.3,Tasmanian Regional Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-regional-average/
 2025-09-07,7 Sep,2025,Diesel,TAS,Tasmanian Regional Average,State Regional Average,185.2,Tasmanian Regional Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-regional-average/
@@ -1101,6 +1119,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,TAS,Tasmanian Regional Average,State Regional Average,258.9,Tasmanian Regional Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-regional-average/
 2026-09-20,20 Sep,2026,Diesel,TAS,Tasmanian Regional Average,State Regional Average,273.1,Tasmanian Regional Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-regional-average/
 2026-09-27,27 Sep,2026,Diesel,TAS,Tasmanian Regional Average,State Regional Average,288.4,Tasmanian Regional Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-regional-average/
+2026-10-04,4 Oct,2026,Diesel,TAS,Tasmanian Regional Average,State Regional Average,288.9,Tasmanian Regional Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-regional-average/
 2025-08-24,24 Aug,2025,Diesel,TAS,Tasmanian State Average,State Average,185.1,Tasmanian State Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-state-average/
 2025-08-31,31 Aug,2025,Diesel,TAS,Tasmanian State Average,State Average,185.3,Tasmanian State Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-state-average/
 2025-09-07,7 Sep,2025,Diesel,TAS,Tasmanian State Average,State Average,185.4,Tasmanian State Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-state-average/
@@ -1159,6 +1178,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,TAS,Tasmanian State Average,State Average,259.2,Tasmanian State Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-state-average/
 2026-09-20,20 Sep,2026,Diesel,TAS,Tasmanian State Average,State Average,274.2,Tasmanian State Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-state-average/
 2026-09-27,27 Sep,2026,Diesel,TAS,Tasmanian State Average,State Average,289.0,Tasmanian State Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-state-average/
+2026-10-04,4 Oct,2026,Diesel,TAS,Tasmanian State Average,State Average,288.5,Tasmanian State Average,https://aip.com.au/pricing/diesel/tasmania-retail-diesel-prices/tasmanian-state-average/
 2025-08-24,24 Aug,2025,Diesel,VIC,Melbourne,Capital City,185.3,Melbourne,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/melbourne/
 2025-08-31,31 Aug,2025,Diesel,VIC,Melbourne,Capital City,185.3,Melbourne,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/melbourne/
 2025-09-07,7 Sep,2025,Diesel,VIC,Melbourne,Capital City,185.7,Melbourne,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/melbourne/
@@ -1217,6 +1237,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,VIC,Melbourne,Capital City,258.2,Melbourne,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/melbourne/
 2026-09-20,20 Sep,2026,Diesel,VIC,Melbourne,Capital City,274.3,Melbourne,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/melbourne/
 2026-09-27,27 Sep,2026,Diesel,VIC,Melbourne,Capital City,287.7,Melbourne,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/melbourne/
+2026-10-04,4 Oct,2026,Diesel,VIC,Melbourne,Capital City,284.1,Melbourne,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/melbourne/
 2025-08-24,24 Aug,2025,Diesel,VIC,Victorian Regional Average,State Regional Average,190.2,Victorian Regional Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-regional-average/
 2025-08-31,31 Aug,2025,Diesel,VIC,Victorian Regional Average,State Regional Average,190.2,Victorian Regional Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-regional-average/
 2025-09-07,7 Sep,2025,Diesel,VIC,Victorian Regional Average,State Regional Average,190.8,Victorian Regional Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-regional-average/
@@ -1275,6 +1296,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,VIC,Victorian Regional Average,State Regional Average,257.6,Victorian Regional Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-regional-average/
 2026-09-20,20 Sep,2026,Diesel,VIC,Victorian Regional Average,State Regional Average,271.9,Victorian Regional Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-regional-average/
 2026-09-27,27 Sep,2026,Diesel,VIC,Victorian Regional Average,State Regional Average,285.7,Victorian Regional Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-regional-average/
+2026-10-04,4 Oct,2026,Diesel,VIC,Victorian Regional Average,State Regional Average,284.5,Victorian Regional Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-regional-average/
 2025-08-24,24 Aug,2025,Diesel,VIC,Victorian State Average,State Average,187.5,Victorian State Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-state-average/
 2025-08-31,31 Aug,2025,Diesel,VIC,Victorian State Average,State Average,187.5,Victorian State Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-state-average/
 2025-09-07,7 Sep,2025,Diesel,VIC,Victorian State Average,State Average,188.0,Victorian State Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-state-average/
@@ -1333,6 +1355,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,VIC,Victorian State Average,State Average,257.9,Victorian State Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-state-average/
 2026-09-20,20 Sep,2026,Diesel,VIC,Victorian State Average,State Average,273.2,Victorian State Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-state-average/
 2026-09-27,27 Sep,2026,Diesel,VIC,Victorian State Average,State Average,286.8,Victorian State Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-state-average/
+2026-10-04,4 Oct,2026,Diesel,VIC,Victorian State Average,State Average,284.3,Victorian State Average,https://aip.com.au/pricing/diesel/victorian-retail-diesel-prices/victorian-state-average/
 2025-08-24,24 Aug,2025,Diesel,WA,Perth,Capital City,179.6,Perth,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/perth/
 2025-08-31,31 Aug,2025,Diesel,WA,Perth,Capital City,179.7,Perth,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/perth/
 2025-09-07,7 Sep,2025,Diesel,WA,Perth,Capital City,179.9,Perth,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/perth/
@@ -1391,6 +1414,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,WA,Perth,Capital City,251.1,Perth,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/perth/
 2026-09-20,20 Sep,2026,Diesel,WA,Perth,Capital City,266.4,Perth,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/perth/
 2026-09-27,27 Sep,2026,Diesel,WA,Perth,Capital City,279.7,Perth,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/perth/
+2026-10-04,4 Oct,2026,Diesel,WA,Perth,Capital City,275.3,Perth,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/perth/
 2025-08-24,24 Aug,2025,Diesel,WA,Western Australian Regional Average,State Regional Average,185.5,Western Australian Regional Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-regional-average/
 2025-08-31,31 Aug,2025,Diesel,WA,Western Australian Regional Average,State Regional Average,185.4,Western Australian Regional Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-regional-average/
 2025-09-07,7 Sep,2025,Diesel,WA,Western Australian Regional Average,State Regional Average,185.3,Western Australian Regional Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-regional-average/
@@ -1449,6 +1473,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,WA,Western Australian Regional Average,State Regional Average,256.7,Western Australian Regional Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-regional-average/
 2026-09-20,20 Sep,2026,Diesel,WA,Western Australian Regional Average,State Regional Average,269.1,Western Australian Regional Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-regional-average/
 2026-09-27,27 Sep,2026,Diesel,WA,Western Australian Regional Average,State Regional Average,282.7,Western Australian Regional Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-regional-average/
+2026-10-04,4 Oct,2026,Diesel,WA,Western Australian Regional Average,State Regional Average,281.4,Western Australian Regional Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-regional-average/
 2025-08-24,24 Aug,2025,Diesel,WA,Western Australian State Average,State Average,182.1,Western Australian State Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-state-average/
 2025-08-31,31 Aug,2025,Diesel,WA,Western Australian State Average,State Average,182.1,Western Australian State Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-state-average/
 2025-09-07,7 Sep,2025,Diesel,WA,Western Australian State Average,State Average,182.2,Western Australian State Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-state-average/
@@ -1507,6 +1532,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,Diesel,WA,Western Australian State Average,State Average,253.5,Western Australian State Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-state-average/
 2026-09-20,20 Sep,2026,Diesel,WA,Western Australian State Average,State Average,267.6,Western Australian State Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-state-average/
 2026-09-27,27 Sep,2026,Diesel,WA,Western Australian State Average,State Average,281.0,Western Australian State Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-state-average/
+2026-10-04,4 Oct,2026,Diesel,WA,Western Australian State Average,State Average,277.9,Western Australian State Average,https://aip.com.au/pricing/diesel/western-australia-retail-diesel-prices/western-australian-state-average/
 2025-08-24,24 Aug,2025,ULP,NSW/ACT,Canberra,Capital City,182.9,Canberra,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/canberra/
 2025-08-31,31 Aug,2025,ULP,NSW/ACT,Canberra,Capital City,183.5,Canberra,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/canberra/
 2025-09-07,7 Sep,2025,ULP,NSW/ACT,Canberra,Capital City,183.7,Canberra,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/canberra/
@@ -1565,6 +1591,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,NSW/ACT,Canberra,Capital City,218.6,Canberra,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/canberra/
 2026-09-20,20 Sep,2026,ULP,NSW/ACT,Canberra,Capital City,237.1,Canberra,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/canberra/
 2026-09-27,27 Sep,2026,ULP,NSW/ACT,Canberra,Capital City,248.2,Canberra,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/canberra/
+2026-10-04,4 Oct,2026,ULP,NSW/ACT,Canberra,Capital City,244.9,Canberra,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/canberra/
 2025-08-24,24 Aug,2025,ULP,NSW/ACT,NSW Regional Average,State Regional Average,175.7,NSW Regional Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-regional-average/
 2025-08-31,31 Aug,2025,ULP,NSW/ACT,NSW Regional Average,State Regional Average,175.9,NSW Regional Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-regional-average/
 2025-09-07,7 Sep,2025,ULP,NSW/ACT,NSW Regional Average,State Regional Average,176.7,NSW Regional Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-regional-average/
@@ -1623,6 +1650,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,NSW/ACT,NSW Regional Average,State Regional Average,211.7,NSW Regional Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-regional-average/
 2026-09-20,20 Sep,2026,ULP,NSW/ACT,NSW Regional Average,State Regional Average,229.2,NSW Regional Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-regional-average/
 2026-09-27,27 Sep,2026,ULP,NSW/ACT,NSW Regional Average,State Regional Average,239.8,NSW Regional Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-regional-average/
+2026-10-04,4 Oct,2026,ULP,NSW/ACT,NSW Regional Average,State Regional Average,239.5,NSW Regional Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-regional-average/
 2025-08-24,24 Aug,2025,ULP,NSW/ACT,NSW State Average,State Average,174.1,NSW State Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-state-average/
 2025-08-31,31 Aug,2025,ULP,NSW/ACT,NSW State Average,State Average,171.8,NSW State Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-state-average/
 2025-09-07,7 Sep,2025,ULP,NSW/ACT,NSW State Average,State Average,177.2,NSW State Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-state-average/
@@ -1681,6 +1709,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,NSW/ACT,NSW State Average,State Average,211.0,NSW State Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-state-average/
 2026-09-20,20 Sep,2026,ULP,NSW/ACT,NSW State Average,State Average,229.0,NSW State Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-state-average/
 2026-09-27,27 Sep,2026,ULP,NSW/ACT,NSW State Average,State Average,239.4,NSW State Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-state-average/
+2026-10-04,4 Oct,2026,ULP,NSW/ACT,NSW State Average,State Average,238.4,NSW State Average,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/nsw-state-average/
 2025-08-24,24 Aug,2025,ULP,NSW/ACT,Sydney,Capital City,171.9,Sydney,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/sydney/
 2025-08-31,31 Aug,2025,ULP,NSW/ACT,Sydney,Capital City,167.5,Sydney,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/sydney/
 2025-09-07,7 Sep,2025,ULP,NSW/ACT,Sydney,Capital City,176.9,Sydney,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/sydney/
@@ -1739,6 +1768,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,NSW/ACT,Sydney,Capital City,209.8,Sydney,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/sydney/
 2026-09-20,20 Sep,2026,ULP,NSW/ACT,Sydney,Capital City,228.0,Sydney,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/sydney/
 2026-09-27,27 Sep,2026,ULP,NSW/ACT,Sydney,Capital City,238.2,Sydney,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/sydney/
+2026-10-04,4 Oct,2026,ULP,NSW/ACT,Sydney,Capital City,237.0,Sydney,https://aip.com.au/pricing/petrol/new-south-wales-act-retail-petrol-prices/sydney/
 2025-08-24,24 Aug,2025,ULP,NT,Alice Springs,City/Region,244.1,Alice Springs,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/alice-springs/
 2025-08-31,31 Aug,2025,ULP,NT,Alice Springs,City/Region,244.5,Alice Springs,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/alice-springs/
 2025-09-07,7 Sep,2025,ULP,NT,Alice Springs,City/Region,245.0,Alice Springs,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/alice-springs/
@@ -1797,6 +1827,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,NT,Alice Springs,City/Region,277.4,Alice Springs,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/alice-springs/
 2026-09-20,20 Sep,2026,ULP,NT,Alice Springs,City/Region,282.8,Alice Springs,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/alice-springs/
 2026-09-27,27 Sep,2026,ULP,NT,Alice Springs,City/Region,287.0,Alice Springs,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/alice-springs/
+2026-10-04,4 Oct,2026,ULP,NT,Alice Springs,City/Region,288.4,Alice Springs,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/alice-springs/
 2025-08-24,24 Aug,2025,ULP,NT,Darwin,City/Region,182.8,Darwin,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/darwin/
 2025-08-31,31 Aug,2025,ULP,NT,Darwin,City/Region,184.0,Darwin,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/darwin/
 2025-09-07,7 Sep,2025,ULP,NT,Darwin,City/Region,186.0,Darwin,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/darwin/
@@ -1855,6 +1886,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,NT,Darwin,City/Region,218.3,Darwin,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/darwin/
 2026-09-20,20 Sep,2026,ULP,NT,Darwin,City/Region,233.5,Darwin,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/darwin/
 2026-09-27,27 Sep,2026,ULP,NT,Darwin,City/Region,244.9,Darwin,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/darwin/
+2026-10-04,4 Oct,2026,ULP,NT,Darwin,City/Region,245.2,Darwin,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/darwin/
 2025-08-24,24 Aug,2025,ULP,NT,Katherine,City/Region,204.9,Katherine,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/katherine/
 2025-08-31,31 Aug,2025,ULP,NT,Katherine,City/Region,205.1,Katherine,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/katherine/
 2025-09-07,7 Sep,2025,ULP,NT,Katherine,City/Region,204.7,Katherine,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/katherine/
@@ -1913,6 +1945,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,NT,Katherine,City/Region,253.1,Katherine,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/katherine/
 2026-09-20,20 Sep,2026,ULP,NT,Katherine,City/Region,256.3,Katherine,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/katherine/
 2026-09-27,27 Sep,2026,ULP,NT,Katherine,City/Region,258.2,Katherine,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/katherine/
+2026-10-04,4 Oct,2026,ULP,NT,Katherine,City/Region,259.1,Katherine,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/katherine/
 2025-08-24,24 Aug,2025,ULP,NT,Northern Territory Regional Average,State Regional Average,234.3,Northern Territory Regional Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-regional-average/
 2025-08-31,31 Aug,2025,ULP,NT,Northern Territory Regional Average,State Regional Average,234.7,Northern Territory Regional Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-regional-average/
 2025-09-07,7 Sep,2025,ULP,NT,Northern Territory Regional Average,State Regional Average,235.1,Northern Territory Regional Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-regional-average/
@@ -1971,6 +2004,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,NT,Northern Territory Regional Average,State Regional Average,270.8,Northern Territory Regional Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-regional-average/
 2026-09-20,20 Sep,2026,ULP,NT,Northern Territory Regional Average,State Regional Average,275.5,Northern Territory Regional Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-regional-average/
 2026-09-27,27 Sep,2026,ULP,NT,Northern Territory Regional Average,State Regional Average,279.4,Northern Territory Regional Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-regional-average/
+2026-10-04,4 Oct,2026,ULP,NT,Northern Territory Regional Average,State Regional Average,281.0,Northern Territory Regional Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-regional-average/
 2025-08-24,24 Aug,2025,ULP,NT,Northern Territory State Average,State Average,196.6,Northern Territory State Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-state-average/
 2025-08-31,31 Aug,2025,ULP,NT,Northern Territory State Average,State Average,197.6,Northern Territory State Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-state-average/
 2025-09-07,7 Sep,2025,ULP,NT,Northern Territory State Average,State Average,199.2,Northern Territory State Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-state-average/
@@ -2029,6 +2063,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,NT,Northern Territory State Average,State Average,232.4,Northern Territory State Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-state-average/
 2026-09-20,20 Sep,2026,ULP,NT,Northern Territory State Average,State Average,244.8,Northern Territory State Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-state-average/
 2026-09-27,27 Sep,2026,ULP,NT,Northern Territory State Average,State Average,254.2,Northern Territory State Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-state-average/
+2026-10-04,4 Oct,2026,ULP,NT,Northern Territory State Average,State Average,254.8,Northern Territory State Average,https://aip.com.au/pricing/petrol/northern-territory-retail-petrol-prices/northern-territory-state-average/
 2025-08-24,24 Aug,2025,ULP,National,5 Capital City Average,National Capital City Average,179.8,5 Capital City Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/5-capital-city-average/
 2025-08-31,31 Aug,2025,ULP,National,5 Capital City Average,National Capital City Average,174.4,5 Capital City Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/5-capital-city-average/
 2025-09-07,7 Sep,2025,ULP,National,5 Capital City Average,National Capital City Average,174.8,5 Capital City Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/5-capital-city-average/
@@ -2087,6 +2122,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,National,5 Capital City Average,National Capital City Average,209.4,5 Capital City Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/5-capital-city-average/
 2026-09-20,20 Sep,2026,ULP,National,5 Capital City Average,National Capital City Average,225.5,5 Capital City Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/5-capital-city-average/
 2026-09-27,27 Sep,2026,ULP,National,5 Capital City Average,National Capital City Average,235.3,5 Capital City Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/5-capital-city-average/
+2026-10-04,4 Oct,2026,ULP,National,5 Capital City Average,National Capital City Average,234.9,5 Capital City Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/5-capital-city-average/
 2025-08-24,24 Aug,2025,ULP,National,National Average,National Average,180.1,National Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/national-average/
 2025-08-31,31 Aug,2025,ULP,National,National Average,National Average,176.0,National Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/national-average/
 2025-09-07,7 Sep,2025,ULP,National,National Average,National Average,175.9,National Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/national-average/
@@ -2145,6 +2181,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,National,National Average,National Average,211.1,National Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/national-average/
 2026-09-20,20 Sep,2026,ULP,National,National Average,National Average,227.3,National Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/national-average/
 2026-09-27,27 Sep,2026,ULP,National,National Average,National Average,237.5,National Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/national-average/
+2026-10-04,4 Oct,2026,ULP,National,National Average,National Average,237.3,National Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/national-average/
 2025-08-24,24 Aug,2025,ULP,National,Total Metropolitan Average,National Metropolitan Average,181.8,Total Metropolitan Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-metropolitan-average/
 2025-08-31,31 Aug,2025,ULP,National,Total Metropolitan Average,National Metropolitan Average,175.7,Total Metropolitan Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-metropolitan-average/
 2025-09-07,7 Sep,2025,ULP,National,Total Metropolitan Average,National Metropolitan Average,175.2,Total Metropolitan Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-metropolitan-average/
@@ -2203,6 +2240,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,National,Total Metropolitan Average,National Metropolitan Average,210.1,Total Metropolitan Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-metropolitan-average/
 2026-09-20,20 Sep,2026,ULP,National,Total Metropolitan Average,National Metropolitan Average,226.5,Total Metropolitan Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-metropolitan-average/
 2026-09-27,27 Sep,2026,ULP,National,Total Metropolitan Average,National Metropolitan Average,236.4,Total Metropolitan Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-metropolitan-average/
+2026-10-04,4 Oct,2026,ULP,National,Total Metropolitan Average,National Metropolitan Average,235.9,Total Metropolitan Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-metropolitan-average/
 2025-08-24,24 Aug,2025,ULP,National,Total Regional Average,National Regional Average,176.6,Total Regional Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-regional-average/
 2025-08-31,31 Aug,2025,ULP,National,Total Regional Average,National Regional Average,176.8,Total Regional Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-regional-average/
 2025-09-07,7 Sep,2025,ULP,National,Total Regional Average,National Regional Average,177.4,Total Regional Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-regional-average/
@@ -2261,6 +2299,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,National,Total Regional Average,National Regional Average,213.1,Total Regional Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-regional-average/
 2026-09-20,20 Sep,2026,ULP,National,Total Regional Average,National Regional Average,229.0,Total Regional Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-regional-average/
 2026-09-27,27 Sep,2026,ULP,National,Total Regional Average,National Regional Average,239.7,Total Regional Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-regional-average/
+2026-10-04,4 Oct,2026,ULP,National,Total Regional Average,National Regional Average,240.1,Total Regional Average,https://aip.com.au/pricing/petrol/national-retail-petrol-prices/total-regional-average/
 2025-08-24,24 Aug,2025,ULP,QLD,Brisbane,Capital City,193.0,Brisbane,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/brisbane/
 2025-08-31,31 Aug,2025,ULP,QLD,Brisbane,Capital City,182.2,Brisbane,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/brisbane/
 2025-09-07,7 Sep,2025,ULP,QLD,Brisbane,Capital City,175.3,Brisbane,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/brisbane/
@@ -2319,6 +2358,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,QLD,Brisbane,Capital City,211.2,Brisbane,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/brisbane/
 2026-09-20,20 Sep,2026,ULP,QLD,Brisbane,Capital City,227.2,Brisbane,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/brisbane/
 2026-09-27,27 Sep,2026,ULP,QLD,Brisbane,Capital City,237.7,Brisbane,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/brisbane/
+2026-10-04,4 Oct,2026,ULP,QLD,Brisbane,Capital City,237.1,Brisbane,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/brisbane/
 2025-08-24,24 Aug,2025,ULP,QLD,Queensland Regional Average,State Regional Average,177.5,Queensland Regional Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-regional-average/
 2025-08-31,31 Aug,2025,ULP,QLD,Queensland Regional Average,State Regional Average,177.2,Queensland Regional Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-regional-average/
 2025-09-07,7 Sep,2025,ULP,QLD,Queensland Regional Average,State Regional Average,176.9,Queensland Regional Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-regional-average/
@@ -2377,6 +2417,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,QLD,Queensland Regional Average,State Regional Average,215.1,Queensland Regional Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-regional-average/
 2026-09-20,20 Sep,2026,ULP,QLD,Queensland Regional Average,State Regional Average,230.1,Queensland Regional Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-regional-average/
 2026-09-27,27 Sep,2026,ULP,QLD,Queensland Regional Average,State Regional Average,240.1,Queensland Regional Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-regional-average/
+2026-10-04,4 Oct,2026,ULP,QLD,Queensland Regional Average,State Regional Average,240.8,Queensland Regional Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-regional-average/
 2025-08-24,24 Aug,2025,ULP,QLD,Queensland State Average,State Average,187.6,Queensland State Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-state-average/
 2025-08-31,31 Aug,2025,ULP,QLD,Queensland State Average,State Average,180.4,Queensland State Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-state-average/
 2025-09-07,7 Sep,2025,ULP,QLD,Queensland State Average,State Average,175.9,Queensland State Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-state-average/
@@ -2435,6 +2476,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,QLD,Queensland State Average,State Average,212.6,Queensland State Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-state-average/
 2026-09-20,20 Sep,2026,ULP,QLD,Queensland State Average,State Average,228.2,Queensland State Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-state-average/
 2026-09-27,27 Sep,2026,ULP,QLD,Queensland State Average,State Average,238.5,Queensland State Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-state-average/
+2026-10-04,4 Oct,2026,ULP,QLD,Queensland State Average,State Average,238.4,Queensland State Average,https://aip.com.au/pricing/petrol/queensland-retail-petrol-prices/queensland-state-average/
 2025-08-24,24 Aug,2025,ULP,SA,Adelaide,Capital City,170.1,Adelaide,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/adelaide/
 2025-08-31,31 Aug,2025,ULP,SA,Adelaide,Capital City,167.4,Adelaide,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/adelaide/
 2025-09-07,7 Sep,2025,ULP,SA,Adelaide,Capital City,174.8,Adelaide,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/adelaide/
@@ -2493,6 +2535,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,SA,Adelaide,Capital City,206.5,Adelaide,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/adelaide/
 2026-09-20,20 Sep,2026,ULP,SA,Adelaide,Capital City,222.4,Adelaide,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/adelaide/
 2026-09-27,27 Sep,2026,ULP,SA,Adelaide,Capital City,233.5,Adelaide,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/adelaide/
+2026-10-04,4 Oct,2026,ULP,SA,Adelaide,Capital City,232.9,Adelaide,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/adelaide/
 2025-08-24,24 Aug,2025,ULP,SA,South Australian Regional Average,State Regional Average,177.7,South Australian Regional Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-regional-average/
 2025-08-31,31 Aug,2025,ULP,SA,South Australian Regional Average,State Regional Average,178.9,South Australian Regional Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-regional-average/
 2025-09-07,7 Sep,2025,ULP,SA,South Australian Regional Average,State Regional Average,180.0,South Australian Regional Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-regional-average/
@@ -2551,6 +2594,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,SA,South Australian Regional Average,State Regional Average,214.4,South Australian Regional Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-regional-average/
 2026-09-20,20 Sep,2026,ULP,SA,South Australian Regional Average,State Regional Average,229.0,South Australian Regional Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-regional-average/
 2026-09-27,27 Sep,2026,ULP,SA,South Australian Regional Average,State Regional Average,240.4,South Australian Regional Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-regional-average/
+2026-10-04,4 Oct,2026,ULP,SA,South Australian Regional Average,State Regional Average,240.4,South Australian Regional Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-regional-average/
 2025-08-24,24 Aug,2025,ULP,SA,South Australian State Average,State Average,172.1,South Australian State Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-state-average/
 2025-08-31,31 Aug,2025,ULP,SA,South Australian State Average,State Average,170.3,South Australian State Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-state-average/
 2025-09-07,7 Sep,2025,ULP,SA,South Australian State Average,State Average,176.1,South Australian State Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-state-average/
@@ -2609,6 +2653,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,SA,South Australian State Average,State Average,208.5,South Australian State Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-state-average/
 2026-09-20,20 Sep,2026,ULP,SA,South Australian State Average,State Average,224.1,South Australian State Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-state-average/
 2026-09-27,27 Sep,2026,ULP,SA,South Australian State Average,State Average,235.3,South Australian State Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-state-average/
+2026-10-04,4 Oct,2026,ULP,SA,South Australian State Average,State Average,234.8,South Australian State Average,https://aip.com.au/pricing/petrol/south-australian-retail-petrol-prices/south-australian-state-average/
 2025-08-24,24 Aug,2025,ULP,TAS,Hobart,Capital City,176.0,Hobart,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/hobart/
 2025-08-31,31 Aug,2025,ULP,TAS,Hobart,Capital City,177.5,Hobart,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/hobart/
 2025-09-07,7 Sep,2025,ULP,TAS,Hobart,Capital City,178.8,Hobart,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/hobart/
@@ -2667,6 +2712,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,TAS,Hobart,Capital City,214.7,Hobart,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/hobart/
 2026-09-20,20 Sep,2026,ULP,TAS,Hobart,Capital City,232.2,Hobart,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/hobart/
 2026-09-27,27 Sep,2026,ULP,TAS,Hobart,Capital City,244.0,Hobart,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/hobart/
+2026-10-04,4 Oct,2026,ULP,TAS,Hobart,Capital City,244.0,Hobart,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/hobart/
 2025-08-24,24 Aug,2025,ULP,TAS,Tasmanian Regional Average,State Regional Average,176.8,Tasmanian Regional Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-regional-average/
 2025-08-31,31 Aug,2025,ULP,TAS,Tasmanian Regional Average,State Regional Average,178.3,Tasmanian Regional Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-regional-average/
 2025-09-07,7 Sep,2025,ULP,TAS,Tasmanian Regional Average,State Regional Average,179.2,Tasmanian Regional Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-regional-average/
@@ -2725,6 +2771,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,TAS,Tasmanian Regional Average,State Regional Average,215.2,Tasmanian Regional Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-regional-average/
 2026-09-20,20 Sep,2026,ULP,TAS,Tasmanian Regional Average,State Regional Average,230.8,Tasmanian Regional Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-regional-average/
 2026-09-27,27 Sep,2026,ULP,TAS,Tasmanian Regional Average,State Regional Average,242.6,Tasmanian Regional Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-regional-average/
+2026-10-04,4 Oct,2026,ULP,TAS,Tasmanian Regional Average,State Regional Average,244.1,Tasmanian Regional Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-regional-average/
 2025-08-24,24 Aug,2025,ULP,TAS,Tasmanian State Average,State Average,176.5,Tasmanian State Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-state-average/
 2025-08-31,31 Aug,2025,ULP,TAS,Tasmanian State Average,State Average,178.0,Tasmanian State Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-state-average/
 2025-09-07,7 Sep,2025,ULP,TAS,Tasmanian State Average,State Average,179.0,Tasmanian State Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-state-average/
@@ -2783,6 +2830,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,TAS,Tasmanian State Average,State Average,215.0,Tasmanian State Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-state-average/
 2026-09-20,20 Sep,2026,ULP,TAS,Tasmanian State Average,State Average,231.4,Tasmanian State Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-state-average/
 2026-09-27,27 Sep,2026,ULP,TAS,Tasmanian State Average,State Average,243.2,Tasmanian State Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-state-average/
+2026-10-04,4 Oct,2026,ULP,TAS,Tasmanian State Average,State Average,244.0,Tasmanian State Average,https://aip.com.au/pricing/petrol/tasmania-retail-petrol-prices/tasmanian-state-average/
 2025-08-24,24 Aug,2025,ULP,VIC,Melbourne,Capital City,190.8,Melbourne,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/melbourne/
 2025-08-31,31 Aug,2025,ULP,VIC,Melbourne,Capital City,180.7,Melbourne,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/melbourne/
 2025-09-07,7 Sep,2025,ULP,VIC,Melbourne,Capital City,172.8,Melbourne,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/melbourne/
@@ -2841,6 +2889,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,VIC,Melbourne,Capital City,209.6,Melbourne,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/melbourne/
 2026-09-20,20 Sep,2026,ULP,VIC,Melbourne,Capital City,224.9,Melbourne,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/melbourne/
 2026-09-27,27 Sep,2026,ULP,VIC,Melbourne,Capital City,234.9,Melbourne,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/melbourne/
+2026-10-04,4 Oct,2026,ULP,VIC,Melbourne,Capital City,235.0,Melbourne,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/melbourne/
 2025-08-24,24 Aug,2025,ULP,VIC,Victorian Regional Average,State Regional Average,174.7,Victorian Regional Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-regional-average/
 2025-08-31,31 Aug,2025,ULP,VIC,Victorian Regional Average,State Regional Average,174.8,Victorian Regional Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-regional-average/
 2025-09-07,7 Sep,2025,ULP,VIC,Victorian Regional Average,State Regional Average,175.4,Victorian Regional Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-regional-average/
@@ -2899,6 +2948,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,VIC,Victorian Regional Average,State Regional Average,210.5,Victorian Regional Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-regional-average/
 2026-09-20,20 Sep,2026,ULP,VIC,Victorian Regional Average,State Regional Average,225.7,Victorian Regional Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-regional-average/
 2026-09-27,27 Sep,2026,ULP,VIC,Victorian Regional Average,State Regional Average,237.1,Victorian Regional Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-regional-average/
+2026-10-04,4 Oct,2026,ULP,VIC,Victorian Regional Average,State Regional Average,238.2,Victorian Regional Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-regional-average/
 2025-08-24,24 Aug,2025,ULP,VIC,Victorian State Average,State Average,186.5,Victorian State Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-state-average/
 2025-08-31,31 Aug,2025,ULP,VIC,Victorian State Average,State Average,179.2,Victorian State Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-state-average/
 2025-09-07,7 Sep,2025,ULP,VIC,Victorian State Average,State Average,173.5,Victorian State Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-state-average/
@@ -2957,6 +3007,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,VIC,Victorian State Average,State Average,209.8,Victorian State Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-state-average/
 2026-09-20,20 Sep,2026,ULP,VIC,Victorian State Average,State Average,225.1,Victorian State Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-state-average/
 2026-09-27,27 Sep,2026,ULP,VIC,Victorian State Average,State Average,235.5,Victorian State Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-state-average/
+2026-10-04,4 Oct,2026,ULP,VIC,Victorian State Average,State Average,235.8,Victorian State Average,https://aip.com.au/pricing/petrol/victorian-retail-petrol-prices/victorian-state-average/
 2025-08-24,24 Aug,2025,ULP,WA,Perth,Capital City,173.3,Perth,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/perth/
 2025-08-31,31 Aug,2025,ULP,WA,Perth,Capital City,174.5,Perth,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/perth/
 2025-09-07,7 Sep,2025,ULP,WA,Perth,Capital City,174.5,Perth,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/perth/
@@ -3015,6 +3066,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,WA,Perth,Capital City,209.9,Perth,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/perth/
 2026-09-20,20 Sep,2026,ULP,WA,Perth,Capital City,225.4,Perth,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/perth/
 2026-09-27,27 Sep,2026,ULP,WA,Perth,Capital City,232.7,Perth,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/perth/
+2026-10-04,4 Oct,2026,ULP,WA,Perth,Capital City,232.8,Perth,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/perth/
 2025-08-24,24 Aug,2025,ULP,WA,Western Australian Regional Average,State Regional Average,178.9,Western Australian Regional Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-regional-average/
 2025-08-31,31 Aug,2025,ULP,WA,Western Australian Regional Average,State Regional Average,179.2,Western Australian Regional Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-regional-average/
 2025-09-07,7 Sep,2025,ULP,WA,Western Australian Regional Average,State Regional Average,179.6,Western Australian Regional Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-regional-average/
@@ -3073,6 +3125,7 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,WA,Western Australian Regional Average,State Regional Average,216.0,Western Australian Regional Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-regional-average/
 2026-09-20,20 Sep,2026,ULP,WA,Western Australian Regional Average,State Regional Average,229.3,Western Australian Regional Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-regional-average/
 2026-09-27,27 Sep,2026,ULP,WA,Western Australian Regional Average,State Regional Average,240.3,Western Australian Regional Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-regional-average/
+2026-10-04,4 Oct,2026,ULP,WA,Western Australian Regional Average,State Regional Average,240.6,Western Australian Regional Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-regional-average/
 2025-08-24,24 Aug,2025,ULP,WA,Western Australian State Average,State Average,174.5,Western Australian State Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-state-average/
 2025-08-31,31 Aug,2025,ULP,WA,Western Australian State Average,State Average,175.6,Western Australian State Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-state-average/
 2025-09-07,7 Sep,2025,ULP,WA,Western Australian State Average,State Average,175.6,Western Australian State Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-state-average/
@@ -3131,3 +3184,4 @@ Date,Week,Year,Fuel,State,Region,Geography_Type,Price_CPL,Source_Name,Page_URL
 2026-09-13,13 Sep,2026,ULP,WA,Western Australian State Average,State Average,211.3,Western Australian State Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-state-average/
 2026-09-20,20 Sep,2026,ULP,WA,Western Australian State Average,State Average,226.3,Western Australian State Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-state-average/
 2026-09-27,27 Sep,2026,ULP,WA,Western Australian State Average,State Average,234.3,Western Australian State Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-state-average/
+2026-10-04,4 Oct,2026,ULP,WA,Western Australian State Average,State Average,234.5,Western Australian State Average,https://aip.com.au/pricing/petrol/western-australian-retail-petrol-prices/western-australian-state-average/
